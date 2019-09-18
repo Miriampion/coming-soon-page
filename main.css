@@ -1,0 +1,117 @@
+html {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+.boxes {
+  background-color: #f2f2f2;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
+
+header,
+nav {
+  text-align: center;
+}
+
+.container {
+  min-height: 400px;
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.btn {
+  padding: 14px;
+}
+
+.yellow {
+  background-color: #e48205;
+}
+
+.color-brand-dark {
+  color: #113c76;
+}
+
+.blue {
+  background-color: #f2f2f2;
+}
+
+.l-blue {
+  color: orange;
+}
+
+h1 {
+  background-color: #333333;
+}
+
+.banner {
+  text-align: center;
+  position: relative;
+}
+
+.icon-homepage {
+  max-width: 100px;
+}
+
+.grey {
+  background-color: #e2e2e2;
+}
+
+a {
+  text-decoration: none;
+}
+
+.banner-content {
+  position: absolute;
+  width: 90%;
+  left: 50%;
+  top: 75%;
+  transform: translate(-50%, -50%);
+}
+
+a:hover {
+  color: orange;
+}
+
+.nav a:focus {
+  outline: 3px solid #000;
+}
+
+.blu {
+  background-color: #506cad;
+}
+
+.current {
+  color: orange;
+}
+
+.white {
+  color: #f2f2f2;
+}
+
+footer {
+  background-color: #e2e2e2;
+}
+
+@media only screen and (min-width: 38em) {
+
+  nav {
+    text-align: right;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+}
+
+@media only screen and (min-width: 52em) {
+
+  .statement {
+    display: inline-block;
+  }
+
+}

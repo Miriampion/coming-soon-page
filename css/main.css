@@ -23,26 +23,9 @@ nav {
   overflow: hidden;
 }
 
-.btn {
-  padding: 14px;
+.underline {
+  border: 2px solid #333333;
 }
-
-.yellow {
-  background-color: #e48205;
-}
-
-.color-brand-dark {
-  color: #113c76;
-}
-
-.blue {
-  background-color: #f2f2f2;
-}
-
-.l-blue {
-  color: orange;
-}
-
 h1 {
   background-color: #333333;
 }

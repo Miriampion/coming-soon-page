@@ -23,9 +23,6 @@ nav {
   overflow: hidden;
 }
 
-.underline {
-  border: 2px solid #333333;
-}
 h1 {
   background-color: #333333;
 }
@@ -81,20 +78,11 @@ footer {
 
 @media only screen and (min-width: 38em) {
 
-  nav {
-    text-align: right;
-  }
-
-  nav li {
-    display: inline-block;
-  }
 
 }
 
 @media only screen and (min-width: 52em) {
 
-  .statement {
-    display: inline-block;
-  }
+  
 
 }
